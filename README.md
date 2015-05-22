@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/canister/badge/?version=latest)](https://readthedocs.org/projects/canister/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/canister-rkt/badge/?version=latest)](https://readthedocs.org/projects/canister-rkt/?badge=latest)
 
 ![logo_design_9](https://cloud.githubusercontent.com/assets/8342133/7682695/80c136de-fd97-11e4-92fc-4b2846489109.jpg)
 
