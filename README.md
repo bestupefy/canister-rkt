@@ -7,6 +7,8 @@
 
 #Canister-rkt:
 
+![rkt-horizontal-color](https://cloud.githubusercontent.com/assets/8342133/7788386/ba9ed948-0255-11e5-82c0-9eebc34c2da8.png)
+
 I am a mangement and configuration tool for managing 
 your rkt containers and images for a real time production enviorment.
 
