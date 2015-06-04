@@ -1,4 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/canister-rkt/badge/?version=latest)](https://readthedocs.org/projects/canister-rkt/?badge=latest)
+[![godoc](https://godoc.org/github.com/bestupefy/canister-rkt?status.svg)](http://godoc.org/github.com/bestupefy/canister-rkt)
 [![Build Status](https://travis-ci.org/bestupefy/canister-rkt.svg?branch=master)](https://travis-ci.org/bestupefy/canister-rkt)
 
 ![logo_design_9](https://cloud.githubusercontent.com/assets/8342133/7682695/80c136de-fd97-11e4-92fc-4b2846489109.jpg)
