@@ -23,6 +23,10 @@ your rkt containers and images for a real time production enviorment.
 
 ![rkt-horizontal-color](https://cloud.githubusercontent.com/assets/8342133/7788386/ba9ed948-0255-11e5-82c0-9eebc34c2da8.png)
 
+#Having some pics:
+
+![screenshot](https://cloud.githubusercontent.com/assets/8342133/8228746/d51acf8e-15ce-11e5-925e-f813b0dc0469.png)
+
 #Project Status:
 
 Canister-rkt is at an early stage and under active development. We do not recommend its use in production, but we encourage you to try out rkt and provide feedback via issues and pull requests.
@@ -53,6 +57,6 @@ see the License file [license](LICENSE).
 
 #Available On:
 
-- [Twitter](https://twitter.com/ramitsurana)
+- [Twitter](https://twitter.com/bestupefy)
 - [Website](https://bestupefy.com)
 - [Docs](http://canister-rkt.readthedocs.org)
