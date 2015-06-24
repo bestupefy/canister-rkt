@@ -34,21 +34,8 @@ Canister-rkt is at an early stage and under active development. We do not recomm
 #Having some Future Plans:
 
 Check out the [roadmap](ROADMAP.md) for more details on the future of Canister-rkt.
-
-#Have Answers to FAQ's:
-
-- What is Canister-rkt ?
-
-  Canister-rkt is a mangement and configuration tool for managing 
-  your rkt containers and images
   
-- What images and services are supported by Canister-rkt ?
-
-  Canister-rkt supports rkt.
-  
-#Built for Linux:
-
-Canister-rkt consists of a single self-contained CLI, and is currently supported on Linux. A modern kernel is required. We recommend booting up a fresh virtual machine to test out Canister-rkt.
+#Built for All OS:
 
 #Licensed Under:
 
